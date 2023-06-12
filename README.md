@@ -1,7 +1,7 @@
 laravel 8.75 order-task require php ^7.3|^8.0
-ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+
 Installation
-ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+
 1-clone project in the running php server for example if using Xampp clone it in htdocs
 2-run command composer install
 3-create database named order_task and put user and password in .env file
